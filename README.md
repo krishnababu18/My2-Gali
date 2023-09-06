@@ -19,3 +19,17 @@ this valley in ***eastern ghats*** is known for its **coffee plantation**.The cr
 * Bambo Chicken Biryani
 * Bambo Chicken 65
 
+***************************************************
+
+###### sports table
+
+Playing sport helps learn to control the emotions and channel negative feelings in a healthy way.
+Sports help develop physical skills, get exercise, make friends, have fun, learn teamwork, learn to play fair, and improve self-esteem.
+
+| Sport     |      Reason          |  Hours   |
+|           |                      |          |
+|Cricket    |team work             |   03     |
+|vollyball  |stamina               |   04     |
+|kabbadi    |coordination          |   02     |
+|soccer     |all round development |   04     |
+

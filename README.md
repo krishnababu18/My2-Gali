@@ -1,4 +1,4 @@
-# sMy2-Gali
+# My2-Gali
 
 # Krishna babu Gali 
 

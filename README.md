@@ -4,7 +4,7 @@
 
 ###### araku valley
 
-this valley in ***eastern ghats*** is known for its **coffee plantation**.The crystal clear waterfalls,birds chirping amidst the dense greenery all around and pleasant weather,are a unique experience for people living in cities.It is situated at a distance of 120Km from **vizag city**.
+this valley in ***eastern ghats*** is known for its **coffee plantation**.The crystal clear waterfalls,birds chirping amidst the dense greenery all around and pleasant weather,are a unique experience for people living in cities.It is situated at a Distance of 120Km from **vizag city**.
 
 ***************************************************
 

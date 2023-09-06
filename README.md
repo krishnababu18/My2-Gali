@@ -23,8 +23,7 @@ this valley in ***eastern ghats*** is known for its **coffee plantation**.The cr
 
 ###### sports table
 
-Playing sport helps learn to control the emotions and channel negative feelings in a healthy way.
-Sports help develop physical skills, get exercise, make friends, have fun, learn teamwork, learn to play fair, and improve self-esteem.
+Sporting activity teaches how to manage emotions and deal with difficult sentiments in a constructive way.Sports aid in the growth of physical abilities, exercise, friendship, fun, teamwork, fair play, and self-esteem.
 
 | Sport     |      Reason          |  Hours   |
 |           |                      |          |

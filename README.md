@@ -37,10 +37,10 @@ Sporting activity teaches how to manage emotions and deal with difficult sentime
 ###### pithy Quotes
 
 > “Nobody reaches anywhere by believing.”
-  >> - *Osho*
+  >> -*Osho*
 
 > "Mathematicians deal with large numbers sometimes, but never in their income.”
-  >>― *Isaac Asimov*
+  >> -*Isaac Asimov*
 
 
 

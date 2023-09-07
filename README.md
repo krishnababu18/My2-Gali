@@ -42,6 +42,24 @@ Sporting activity teaches how to manage emotions and deal with difficult sentime
 > "Mathematicians deal with large numbers sometimes, but never in their income.”
   >> -*Isaac Asimov*
 
+**************************************************************************88
+
+###### code fencing
+
+> HTML Form With Enctype Breaks $_POST Data
+
+[stack overflow link](https://stackoverflow.com/questions/29089366/html-form-with-enctype-breaks-post-data)
+
+```
+
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
+
+```
+
+[snippet source](https://css-tricks.com/snippets/html/multiple-file-input/)
 
 
 

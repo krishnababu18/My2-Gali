@@ -42,7 +42,7 @@ Sporting activity teaches how to manage emotions and deal with difficult sentime
 > "Mathematicians deal with large numbers sometimes, but never in their income.”
   >> -*Isaac Asimov*
 
-**************************************************************************88
+**************************************************************************
 
 ###### code fencing
 

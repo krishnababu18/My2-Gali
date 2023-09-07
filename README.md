@@ -26,7 +26,7 @@ this valley in ***eastern ghats*** is known for its **coffee plantation**.The cr
 Sporting activity teaches how to manage emotions and deal with difficult sentiments in a constructive way.Sports aid in the growth of physical abilities, exercise, friendship, fun, teamwork, fair play, and self-esteem.
 
 | Sport     |      Reason          |  Hours   |
-|   ....... |  ............        | ........ |
+|   ------- |  ------------        | -------  |
 |Cricket    |team work             |   03     |
 |vollyball  |stamina               |   04     |
 |kabbadi    |coordination          |   02     |
